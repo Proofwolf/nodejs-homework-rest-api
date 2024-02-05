@@ -47,3 +47,4 @@ module.exports = {
   removeContact: ctrlWrapper(removeContact),
   updateContact: ctrlWrapper(updateContact),
 };
+
